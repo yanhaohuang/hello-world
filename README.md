@@ -1,2 +1,2 @@
 # hello-world
-Week 2: Assignment: GitHub Hello World
+Hi, this is Yanhao Huang, I'm currently a computer science student at Oregon State University. 
